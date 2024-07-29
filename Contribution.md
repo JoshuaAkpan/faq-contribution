@@ -84,8 +84,10 @@ If you have an idea for a new feature, please open an issue on [GitHub Issues](h
 3. Make your changes, and commit them with descriptive messages:
 
    ```sh
-   git commit -m "feat: your commit message"
+   git commit -m "Feat: your commit message."
    ```
+
+   Commit messages must start with a capital letter and must end with a full stop.
 
    ##### Commit Message Rules
 
