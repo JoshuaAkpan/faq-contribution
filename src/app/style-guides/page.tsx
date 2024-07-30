@@ -1,10 +1,10 @@
 import React from "react";
-import Sample from "@/telexComponents/sample";
+import Faq from "@/telexComponents/faq";
 
 function page() {
   return (
-    <div>
-      <Sample />
+    <div className="mt-8">
+      <Faq />
     </div>
   );
 }
