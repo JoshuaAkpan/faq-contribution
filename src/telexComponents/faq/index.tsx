@@ -20,7 +20,7 @@ const Faq: React.FC = () => {
           />
         </div>
 
-        <div className="flex flex-1 items-start justify-center flex-col">
+        <div className="flex flex-1 items-start justify-center flex-col w-full">
           <h1 className="text-3xl font-semibold mb-4">Got Questions?</h1>
           <p className="mb-8">
             Explore common questions and answers to get the most out of Telex.
